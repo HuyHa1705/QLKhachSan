@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\Check OUt.exe
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\Check OUt.deps.json
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\Check OUt.runtimeconfig.json
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\Check OUt.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\Check OUt.pdb
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check_OUt.CheckOut.resources
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check_OUt.InHoaDon.resources
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.AssemblyInfo.cs
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.csproj.CopyComplete
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\refint\Check OUt.dll
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.pdb
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\Check OUt.genruntimeconfig.cache
+C:\Users\Admin\Desktop\20127184_Hà Huỳnh Đức Huy\Huy Ha - GUI\Check OUt\obj\Debug\net6.0-windows\ref\Check OUt.dll
